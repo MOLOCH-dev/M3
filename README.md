@@ -39,6 +39,7 @@ roslaunch mbzirc_ur5_moveit_config mbzirc_ur5_planning_execution.launch
 
 ## Help
 
+* [Progress tracker](https://docs.google.com/spreadsheets/d/1pQOMQNmWn8g2MU3KeMXHZzm2AR2Vb22gNhGR8cUcgWM/edit?usp=sharing)
 
 ## Authors
 
