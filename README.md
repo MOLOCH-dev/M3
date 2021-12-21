@@ -29,14 +29,22 @@ catkin_make
 source ~/catkin_ws/devel/setup.bash
 ```
 * Launch Gazebo Simulation
+
 For one youbot :
 ```
 roslaunch youbot_gazebo_robot youbot.launch
 ```
+<p align="center">
+  <img src="./assets/single_youbot.png" width="500"/>
+</p>
+
 For multiple youbots : 
 ```
 roslaunch youbot_gazebo_robot multi_youbot.launch
 ```
+<p align="center">
+  <img src="./assets/three_youbots_spawn.png" width="500"/>
+</p>
 
 ## Help
 
